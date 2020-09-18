@@ -1,2 +1,2 @@
-MyFirstProgram.java
- MyFirstProgram
+arm.aqa.sandbox.MyFirstProgram.java
+ arm.aqa.sandbox.MyFirstProgram

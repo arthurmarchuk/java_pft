@@ -1,3 +1,5 @@
+package arm.aqa.sandbox;
+
 public class MyFirstProgram {
     
     public static void main(String[] args) {
